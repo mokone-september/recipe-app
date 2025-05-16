@@ -1,6 +1,6 @@
 # Flavor Fiesta
 
-[![Flavor Fiesta Screenshot](https://github.com/munashex/Flavor-Fiesta/blob/main/public/Screenshot%202024-11-11%2014.18.04.png)](https://flavor-fiesta-three.vercel.app/)
+[![Flavor Fiesta Screenshot]()
 
 **Flavor Fiesta** is a culinary platform that offers global recipes using the MealDB API. The platform allows users to explore a variety of recipes from different cuisines, providing detailed information about each dish, including ingredients and preparation steps.
 
@@ -15,10 +15,10 @@
 - **API Integration:** MealDB API
 
 ## Live Demo
-Check out Flavor Fiesta [here](https://flavor-fiesta-three.vercel.app/).
+Check out Flavor Fiesta [here](https://recipe-app-liard-seven.vercel.app/).
 
 ## Source Code
-Explore the code on GitHub: [Flavor-Fiesta](https://github.com/munashex/Flavor-Fiesta).
+Explore the code on GitHub: [Flavor-Fiesta]().
 
 ---
 
