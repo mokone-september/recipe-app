@@ -52,7 +52,7 @@ const Navbar = () => {
                     <input 
                         type="text" 
                         className="border p-2.5 px-16 rounded-md outline-none" 
-                        placeholder="What do you want to cook today?" 
+                        placeholder="What do you want to cook?" 
                         onChange={handleInputChange}
                     />
                     <button type="submit" className="absolute top-2 left-3">
@@ -72,7 +72,7 @@ const Navbar = () => {
                         <input
                             type="text"
                             className="w-full p-3 pl-11 outline-none placeholder:pl-11 placeholder:font-semibold"
-                            placeholder="What do you want to cook today?" 
+                            placeholder="What do you want to cook?" 
                             onChange={handleInputChange}
                         />
                         <button type="submit" className="absolute left-5 top-1/2 transform -translate-y-1/2">
